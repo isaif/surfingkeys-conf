@@ -1,0 +1,30 @@
+{
+  "env": {
+    "browser": true,
+    "es2021": true
+  },
+  "globals": {
+    "RUNTIME": false,
+    "Omnibar": false,
+    "Front": false,
+    "Clipboard": false,
+    "runtime": false,
+    "chrome": false,
+    "tabOpenLink": false,
+    "Hints": false,
+    "unmap": false,
+    "map": false,
+    "mapkey": false,
+    "settings": false,
+    "removeSearchAliasX": false,
+    "addSearchAliasX": false,
+    "completions": false
+  },
+  "extends": "eslint:recommended",
+  "overrides": [],
+  "parserOptions": {
+    "ecmaVersion": "latest",
+    "sourceType": "module"
+  },
+  "rules": {}
+}
