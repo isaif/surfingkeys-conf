@@ -101,6 +101,17 @@ const theme = `
   font-size: var(--font-size);
   font-weight: var(--font-weight);
 }
+
+/* ace editor's autocomplete styling */
+.ace_content {
+  background: var(--bg);
+}
+
+/* highlight selected line in ace autocomplete */
+.ace_line.ace_selected {
+  background: var(--bg-dark);
+}
+
 `;
 
 export default theme;
