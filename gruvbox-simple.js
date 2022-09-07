@@ -50,7 +50,7 @@ const theme = `
 	background: #282828;
 }
 .sk_theme #sk_omnibarSearchResult ul>li.focused {
-	background: #d3869b;
+	background: #161713;
 }
 
 /* ---------- ACE Editor ---------- */
